@@ -1,0 +1,10 @@
+module.exports.authValidation = require('./auth.validation');
+module.exports.watchHistoryValidation = require('./watch-history.validation');
+module.exports.userValidation = require('./user.validation');
+module.exports.seriesValidation = require('./series.validation');
+module.exports.episodeValidation = require('./episode.validation');
+module.exports.noteValidation = require('./notes.validation');
+module.exports.bannerValidation = require('./banner.validation');
+module.exports.subscriptionValidation = require('./subscription.validation');
+module.exports.authorValidation = require('./author.validation');
+module.exports.contactUsValidation = require('./contact-us.validation');

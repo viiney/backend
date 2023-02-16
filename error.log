@@ -1,0 +1,195 @@
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/connection.js:846:32)
+    at /home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:351:10
+    at /home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:1149:10)
+    at Mongoose.connect (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:350:20)
+    at Object.<anonymous> (/home/alphanzo/Desktop/prepAud-backend/src/index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+    at Module.load (node:internal/modules/cjs/loader:1033:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/connection.js:846:32)
+    at /home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:351:10
+    at /home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:1149:10)
+    at Mongoose.connect (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:350:20)
+    at Object.<anonymous> (/home/alphanzo/Desktop/prepAud-backend/src/index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+    at Module.load (node:internal/modules/cjs/loader:1033:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/connection.js:846:32)
+    at /home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:351:10
+    at /home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:1149:10)
+    at Mongoose.connect (/home/alphanzo/Desktop/prepAud-backend/node_modules/mongoose/lib/index.js:350:20)
+    at Object.<anonymous> (/home/alphanzo/Desktop/prepAud-backend/src/index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+    at Module.load (node:internal/modules/cjs/loader:1033:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[31merror[39m: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\connection.js:846:32)
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:351:10
+    at C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:1149:10)
+    at Mongoose.connect (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\node_modules\mongoose\lib\index.js:350:20)
+    at Object.<anonymous> (C:\Users\hp\OneDrive\Desktop\prepAud-backend-main\src\index.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47

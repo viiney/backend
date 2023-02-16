@@ -1,0 +1,14 @@
+module.exports.FileUpload = require('./file.model');
+module.exports.Author = require('./author.model');
+module.exports.User = require('./user.model');
+module.exports.PodcastCategory = require('./podcast-category.model');
+module.exports.SubscriptionFee = require('./subscription-fee.model');
+module.exports.Subscription = require('./subscription.model');
+module.exports.Series = require('./series.model');
+module.exports.Episode = require('./episode.model');
+module.exports.Podcast = require('./podcast.model');
+module.exports.WatchHistory = require('./watch-history.model');
+module.exports.Banner = require('./banner.model');
+module.exports.Note = require('./notes.model');
+module.exports.AuthorSeries = require('./author-series.model');
+module.exports.ReferralCode = require('./referral.model');
